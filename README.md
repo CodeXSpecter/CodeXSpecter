@@ -1,11 +1,17 @@
 # 💫 About Me:
 
 🎓 3rd-year IT student passionate about software development and problem-solving
+
 🔭 Building full-stack web apps using HTML, CSS, JavaScript, React, Node.js & MongoDB
+
 👯 Open to collaborating on open-source and beginner-friendly web projects
+
 🤝 Seeking guidance on backend architecture, APIs, authentication & deployment
+
 🌱 Learning MERN stack, DSA, REST APIs & Git/GitHub
+
 💬 Ask me about web development, JavaScript, React & getting started as a student
+
 ⚡ Love turning ideas into web apps and debugging more than writing code 😄
 
 
