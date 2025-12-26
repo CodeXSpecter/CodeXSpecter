@@ -4,7 +4,7 @@
 </p>
 
 
-# 💫 About Me:
+
 
 🎓  I’m an IT student with a passion for tech and continuous learnin
 
