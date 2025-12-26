@@ -1,3 +1,7 @@
+## Hi 👋, I'm Ranjit  
+
+✨ A creative mind always exploring new idea
+
 # 💫 About Me:
 
 🎓  I’m an IT student with a passion for tech and continuous learnin
