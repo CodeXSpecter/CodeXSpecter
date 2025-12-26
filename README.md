@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building full-stack web applications using HTML, CSS, JavaScript, React, Node.js, and MongoDB, and improving my problem-solving skills through real-world projects.<br><br>👯 I’m looking to collaborate on<br>Open-source projects, web applications, and beginner-friendly full-stack or frontend projects where I can learn and contribute.<br><br>🤝 I’m looking for help with<br>Best practices in backend architecture, API design, authentication, and deploying full-stack applications.<br><br>🌱 I’m currently learning<br>Full Stack Development (MERN Stack), Data Structures & Algorithms, REST APIs, and Git/GitHub.<br><br>💬 Ask me about<br>Web development basics, frontend design, JavaScript, React, or getting started with full-stack development as a student.<br><br>⚡ Fun fact<br>I enjoy turning ideas into working web apps and debugging code more than writing it 😄
+
+🎓 3rd-year IT student passionate about software development and problem-solving
+🔭 Building full-stack web apps using HTML, CSS, JavaScript, React, Node.js & MongoDB
+👯 Open to collaborating on open-source and beginner-friendly web projects
+🤝 Seeking guidance on backend architecture, APIs, authentication & deployment
+🌱 Learning MERN stack, DSA, REST APIs & Git/GitHub
+💬 Ask me about web development, JavaScript, React & getting started as a student
+⚡ Love turning ideas into web apps and debugging more than writing code 😄
 
 
 ## 🌐 Socials:
