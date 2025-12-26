@@ -1,6 +1,8 @@
-## Hi 👋, I'm Ranjit  
+<h1 align="center">Hi 👋, I'm Ranjit</h1>
+<p align="center">
+  ✨ Building today what will shape tomorrow.
+</p>
 
-✨ A creative mind always exploring new idea
 
 # 💫 About Me:
 
