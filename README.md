@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🎓 3rd-year IT student passionate about software development and problem-solving
+🎓  I’m an IT student with a passion for tech and continuous learnin
 
 🔭 Building full-stack web apps using HTML, CSS, JavaScript, React, Node.js & MongoDB
 
